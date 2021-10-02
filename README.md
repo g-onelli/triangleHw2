@@ -1,2 +1,1 @@
-# triangleHw2
-[![build status of master](https://travis-ci.org/g-onelli/triangleHw2.svg?branch=master)](https://travis-ci.org/g-onelli/triangleHw2)
+[![Build Status](https://app.travis-ci.com/g-onelli/triangleHw2.svg?branch=main)](https://app.travis-ci.com/g-onelli/triangleHw2)
